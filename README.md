@@ -1,2 +1,2 @@
-# Practice makes perm!!
+#Several pandas exercises
 Pandas
